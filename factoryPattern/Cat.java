@@ -20,4 +20,5 @@ public class Cat implements Pet {
     public String play() {
         return "Catching/pursuing moving objects!";
     }
+    
 }
