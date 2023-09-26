@@ -45,7 +45,7 @@ public class Clinic {
                 break;
 
             default:
-                System.out.println("Please choose a valid number from the record");
+                System.out.println("\nINVALID INPUT! Please choose a valid number from the record.");
         }
         main(args);
     }    
