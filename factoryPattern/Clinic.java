@@ -45,7 +45,7 @@ public class Clinic {
                 break;
 
             default:
-                System.out.println("Please choose a valid number from the record");
+                System.out.println("Please choose a valid number the record");
         }
         main(args);
     }    
@@ -59,4 +59,6 @@ public class Clinic {
         System.out.println("Play mode: " + petFile.getPet().play());
         
     }
+
+    // Hannah Condada
 }
