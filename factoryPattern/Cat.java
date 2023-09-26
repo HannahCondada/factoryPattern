@@ -1,7 +1,7 @@
 package factoryPattern;
 
 public class Cat implements Pet {
-    private Integer noOfLives;
+    private int noOfLives;
 
     public Integer getNoOfLives() {
         return noOfLives;
