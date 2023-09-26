@@ -60,5 +60,5 @@ public class Clinic {
         
     }
 
-    // Hannah Condada
+    // Hannah Condada : 3 - BSCS - 1
 }
